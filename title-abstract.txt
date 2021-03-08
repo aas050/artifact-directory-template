@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Modelling COVID-19 Transmission in San Diego School Buses>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Using Agent Based Modelling, we model the spread of COVID-19 in San Diego school buses, by running simulations of school trips, with the goal of providing guidlines on the key factors that impact the spread of the virus in the case of schools reopening for in-person education. >
